@@ -1,0 +1,6 @@
+"0","metro_dist <- rent_fil[c(""closest_mtero_station_km"")]"
+"0",""
+"0","price <- rent_fil[c(""price"")]"
+"0",""
+"0","price_comp <- rent_fil[c(""closest_mtero_station_km"", 'price' )]"
+"0",""

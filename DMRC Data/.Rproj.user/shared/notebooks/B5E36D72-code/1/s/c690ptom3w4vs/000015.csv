@@ -1,0 +1,7 @@
+"0","knn_wards <-coordsW %>%"
+"0","  knearneigh(., k=4)"
+"0",""
+"0","LWard_knn <- knn_wards %>%"
+"0","  knn2nb()"
+"0",""
+"0","plot(LWard_knn, st_geometry(coordsW), col=""blue"")"

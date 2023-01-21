@@ -1,0 +1,4 @@
+"0","points <- sqf_points%>%"
+"0",""
+"0","  st_as_sf(., coords = c(""STOP_LOCATION_X"", ""STOP_LOCATION_Y""), "
+"0","                   crs = 2908)"

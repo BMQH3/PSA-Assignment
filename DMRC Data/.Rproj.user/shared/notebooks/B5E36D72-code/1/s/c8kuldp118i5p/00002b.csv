@@ -1,0 +1,5 @@
+"0",""
+"0","LWard_nb <- wards %>%"
+"0","  poly2nb(., queen=T)"
+"0",""
+"0","plot(LWard_nb, st_geometry(coordsW), col=""red"")"

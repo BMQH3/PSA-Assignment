@@ -1,0 +1,6 @@
+"0","coordsW <- wards%>%"
+"0","  st_centroid()%>%"
+"0","  st_geometry()"
+"2","Warning: st_centroid assumes attributes are constant over geometries of x"
+"0","  "
+"0","plot(coordsW,axes=TRUE)"
